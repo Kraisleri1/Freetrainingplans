@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to Our Website</title>
+</head>
+<body>
+  <h1>Welcome to Our Website</h1>
+  <p>Thank you for visiting our website! We offer a variety of free training plans for different types of exercise, as well as recommended products to help you get started. Choose a training style from the menu below to get started:</p>
+  <ul>
+    <li><a href="#endurance">Endurance Training</a></li>
+    <li><a href="#stretching">Stretching and Flexibility Training</a></li>
+    <li><a href="#bodybuilding">Bodybuilding Training</a></li>
+  </ul>
+  <p>In addition to the free training plans, we also offer a selection of products from Amazon to help you get started with your fitness journey. Check out some of our top picks below:</p>
+  <ul>
+    <li><a href="https://www.amazon.com/dp/B07D6M8W6G">Running shoes</a></li>
+    <li><a href="https://www.amazon.com/dp/B01MRZJGJZ">Yoga mat</a></li>
+    <li><a href="https://www.amazon.com/dp/B07B6F5B6H">Wrist wraps</a></li>
+  </ul>
+  <h2 id="endurance">Endurance Training</h2>
+  <p>Endurance training is designed to improve your body's ability to sustain physical activity for extended periods of time. Here are some free 4-week training plans to help you get started:</p>
+  <h3>Endurance Training Plan 1</h3>
+  <p>Week 1:</p>
+  <ul>
+    <li>Monday: 3 mile run</li>
+    <li>Tuesday: Rest day</li>
+    <li>Wednesday: 30 minute bike ride</li>
+    <li>Thursday: Rest day</li>
+    <li>Friday: 4 mile run</li>
+    <li>Saturday: Rest day</li>
+    <li>Sunday: 40 minute swim</li>
+  </ul>
+  <!-- Continue with weeks 2, 3, and 4 -->
+  <h3>Endurance Training Plan 2</h3>
+  <!-- Provide workout details for this plan -->
+  <h3>Endurance Training Plan 3</h3>
+  <!-- Provide workout details for this plan -->
+  <h2 id="stretching">Stretching and Flexibility Training</h2>
+  <p>Stretching and flexibility training can help improve your range of motion and reduce the risk of injury. Here are some free 4-week training plans to get you started:</p>
+  <h3>Stretching and Flexibility Training Plan 1</h3>
+  <p>Week 1:</p>
+  <ul>
+    <li>Monday: Dynamic stretches for the legs</li>
+    <li>Tuesday: Rest day</li>
+    <li>Wednesday: Static stretches for the upper body</li>
+    <li>
